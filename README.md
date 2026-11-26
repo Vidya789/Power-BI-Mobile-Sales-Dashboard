@@ -75,6 +75,6 @@ DISTINCTCOUNT('Sales_Data'[Transaction ID])
 
 Mobile_Sales_Dashboard.pbix — the Power BI report
 
-dashboard.png — a screenshot preview of the dashboard
+Dashboard.png — a screenshot preview of the dashboard
 
 This is a learning project built to practise data preparation, DAX, and dashboard design.
